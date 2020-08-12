@@ -65,7 +65,7 @@ public class SimpleCalculator {
 
         //System.out.println(calc("21+37-18"));
         //System.out.println(calc("21+10*18"));
-        System.out.println(calc("21+10/2"));
+        System.out.println(calc("21+10/2-9*1"));
     }
 
 
